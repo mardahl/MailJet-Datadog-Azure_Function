@@ -1,9 +1,9 @@
 # MailJet-Datadog-Azure_Function
 
 A script solution to act as a middle man between MailJet and Datadog.
-This makes it possible to monitor MailJet with Datadog and create cool dashbaords and monitors for all the things going on in MailJet.
+This makes it possible to monitor MailJet with Datadog and create cool dashboards and monitors for all the things going on in MailJet.
 
-Can be executed using a consumption plan in Azure Fucntions.
+Can be executed using a cheap consumption plan in Azure Functions.
 
 # Installation
 
